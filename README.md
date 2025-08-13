@@ -1,3 +1,8 @@
+
+> [!IMPORTANT]
+> This module has been archived on 2025-08-13 (See discussion in [#119](https://github.com/voxpupuli/puppet-wget/issues/119)).
+> Please use [puppet-archive](https://github.com/voxpupuli/puppet-archive) instead.
+
 [![Build Status](https://travis-ci.org/voxpupuli/puppet-wget.svg?branch=master)](https://travis-ci.org/voxpupuli/puppet-wget)
 [![Puppet Forge](https://img.shields.io/puppetforge/v/puppet/wget.svg)](https://forge.puppetlabs.com/puppet/wget)
 [![Puppet Forge](https://img.shields.io/puppetforge/f/puppet/wget.svg)](https://forge.puppetlabs.com/puppet/wget)
